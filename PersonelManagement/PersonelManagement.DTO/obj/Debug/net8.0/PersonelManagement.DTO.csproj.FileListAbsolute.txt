@@ -1,0 +1,11 @@
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.DTO\bin\Debug\net8.0\PersonelManagement.DTO.deps.json
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.DTO\bin\Debug\net8.0\PersonelManagement.DTO.dll
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.DTO\bin\Debug\net8.0\PersonelManagement.DTO.pdb
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.DTO\obj\Debug\net8.0\PersonelManagement.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.DTO\obj\Debug\net8.0\PersonelManagement.DTO.AssemblyInfoInputs.cache
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.DTO\obj\Debug\net8.0\PersonelManagement.DTO.AssemblyInfo.cs
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.DTO\obj\Debug\net8.0\PersonelManagement.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.DTO\obj\Debug\net8.0\PersonelManagement.DTO.dll
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.DTO\obj\Debug\net8.0\refint\PersonelManagement.DTO.dll
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.DTO\obj\Debug\net8.0\PersonelManagement.DTO.pdb
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.DTO\obj\Debug\net8.0\ref\PersonelManagement.DTO.dll

@@ -1,0 +1,17 @@
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.Data\bin\Debug\net8.0\PersonelManagement.DataAccess.deps.json
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.Data\bin\Debug\net8.0\PersonelManagement.DataAccess.runtimeconfig.json
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.Data\bin\Debug\net8.0\PersonelManagement.DataAccess.dll
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.Data\bin\Debug\net8.0\PersonelManagement.DataAccess.pdb
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.Data\bin\Debug\net8.0\PersonelManagement.Core.dll
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.Data\bin\Debug\net8.0\PersonelManagement.Core.pdb
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.Data\obj\Debug\net8.0\PersonelManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.Data\obj\Debug\net8.0\PersonelManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.Data\obj\Debug\net8.0\PersonelManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.Data\obj\Debug\net8.0\PersonelManagement.DataAccess.AssemblyInfo.cs
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.Data\obj\Debug\net8.0\PersonelManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.Data\obj\Debug\net8.0\Personel.EC22BDF1.Up2Date
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.Data\obj\Debug\net8.0\PersonelManagement.DataAccess.dll
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.Data\obj\Debug\net8.0\refint\PersonelManagement.DataAccess.dll
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.Data\obj\Debug\net8.0\PersonelManagement.DataAccess.pdb
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.Data\obj\Debug\net8.0\PersonelManagement.DataAccess.genruntimeconfig.cache
+C:\Users\Harun\Desktop\PersonelManagement\PersonelManagement.Data\obj\Debug\net8.0\ref\PersonelManagement.DataAccess.dll

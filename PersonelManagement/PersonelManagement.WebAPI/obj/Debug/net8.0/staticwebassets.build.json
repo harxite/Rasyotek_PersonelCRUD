@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Klp2mHGRPHyahLUIPIrOjUBP2U1btPi4IKCzEnJz8as=",
+  "Source": "PersonelManagement.WebAPI",
+  "BasePath": "_content/PersonelManagement.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
